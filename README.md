@@ -1,4 +1,4 @@
-# flightanalysis
+# Flight Analysis
 Project Description
 
 This program will analyze data read from a file, remove items not needed in the file, calculate the best fare, and calculate the best fare amongst distance of Flight objects.
